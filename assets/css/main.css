@@ -1774,7 +1774,7 @@ input, select, textarea {
 		width: -webkit-max-content;
 		width: -ms-max-content;
 		width: max-content;
-		margin-bottom: 2em;
+		margin-bottom: 1em;
 	}
 
 		header.major > :first-child {
@@ -1800,7 +1800,7 @@ input, select, textarea {
 		}
 
 		body.is-ie header.major > :first-child:after {
-			max-width: 9em;
+			max-width: 8em;
 		}
 
 		body.is-ie header.major > h1:after {
